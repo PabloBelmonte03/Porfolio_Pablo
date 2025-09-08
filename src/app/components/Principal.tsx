@@ -7,7 +7,7 @@ export default function Hero() {
     // Sección que ocupa toda la pantalla y tiene imagen de fondo
     <section
       className="h-screen flex flex-col justify-center items-center text-center bg-cover bg-center relative"
-      style={{ backgroundImage: "url('/fondo.jpg')" }}
+      style={{ backgroundImage: "url('fondo.jpg')" }}
     >
       {/* Capa oscura encima de la imagen para mejorar legibilidad */}
       <div className="absolute inset-0 bg-black/50"></div>
@@ -33,7 +33,7 @@ export default function Hero() {
         </motion.p>
 
         <div className="mt-6 flex gap-4 justify-center">
-          <a href="/CV_Pablo.pdf" 
+          <a href="CV_Pablo.pdf" 
             download className="bg-blue-600 px-4 py-2 rounded-lg hover:bg-blue-500 transition">
             Descargar CV
           </a>
