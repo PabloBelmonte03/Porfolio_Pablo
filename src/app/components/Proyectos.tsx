@@ -6,6 +6,11 @@ const projects = [
     github: "https://github.com/PabloBelmonte03/PFC-Pablo-Belmonte/tree/main"
   },
   {
+    title: "Cálculo Horas.",
+    description: "Una app para contabilizar las horas que trabajas en cada mes del año.",
+    github: "https://github.com/PabloBelmonte03/Calculo-Horas"
+  },
+  {
     title: "Práctica final Acceso a datos.",
     description: "Un cliente nos ha solicitado implementar un sistema para la gestión de restaurantes.",
     github: "https://github.com/PabloBelmonte03/Practica-Final-AC"
@@ -14,12 +19,8 @@ const projects = [
     title: "Práctica para aprender Python.",
     description: "Algunos ejercicios para aprender Python viniendo de desarrollar con java.",
     github: "https://github.com/PabloBelmonte03/Pr-ctica-Python"
-  },
-    {
-    title: "Cálculo Horas.",
-    description: "Una app para contabilizar las horas que trabajas en cada mes del año.",
-    github: "https://github.com/PabloBelmonte03/Calculo-Horas"
   }
+ 
 ];
 
 export default function Projects() {
