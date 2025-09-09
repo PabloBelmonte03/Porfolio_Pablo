@@ -14,6 +14,11 @@ const projects = [
     title: "Práctica para aprender Python.",
     description: "Algunos ejercicios para aprender Python viniendo de desarrollar con java.",
     github: "https://github.com/PabloBelmonte03/Pr-ctica-Python"
+  },
+    {
+    title: "Cálculo Horas.",
+    description: "Una app para contabilizar las horas que trabajas en cada mes del año.",
+    github: "https://github.com/PabloBelmonte03/Calculo-Horas"
   }
 ];
 
