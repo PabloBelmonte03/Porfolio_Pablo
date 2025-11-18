@@ -1,6 +1,7 @@
 // Experiencia y educación en forma de timeline
 
 const timeline = [
+  { year: "2025 - Actualidad", text: "Técnico informático - El corte Inglés" },
   { year: "2025", text: "Ayudante de cocina - Foster's Hollywood" },
   { year: "2025", text: "Prácticas DAM – Residencia de mayores Doña Rosa (400h)" },
   { year: "2022", text: "Prácticas SMR – Residencia de mayores Doña Rosa (380h)" },
