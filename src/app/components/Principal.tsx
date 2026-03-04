@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 
 export default function Hero() {
+  
   return (
     // Sección que ocupa toda la pantalla y tiene imagen de fondo
     <section

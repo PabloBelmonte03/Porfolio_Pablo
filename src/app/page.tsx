@@ -11,12 +11,19 @@ export default function Home() {
   return (
 
     <main className="bg-gray-900 text-white min-h-screen">
+
       <Principal />
+
       <Sobre_Mi />
+
       <Habilidades />
+
       <Proyectos />
+
       <Experiencia />
+
       <Contacto />
+      
     </main>
 
   );
