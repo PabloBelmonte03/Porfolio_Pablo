@@ -12,7 +12,7 @@ export default function Habilidades() {
 
     <section className="py-20 bg-gray-800">
 
-      <h2 className="text-3xl font-bold text-center mb-8">Lenguajes</h2>
+      <h2 className="text-3xl font-bold text-center mb-8">Lenguajes y Tecnologías</h2>
 
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 max-w-4xl mx-auto">
 

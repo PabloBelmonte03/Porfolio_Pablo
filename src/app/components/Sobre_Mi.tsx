@@ -9,9 +9,9 @@ export default function About() {
       <h2 className="text-3xl font-bold mb-6">Sobre mí</h2>
 
       <p className="text-gray-300">
-        Desarrollador junior con experiencia en prácticas y muchas ganas de
-        seguir aprendiendo. Me adapto rápido, soy resolutivo y busco crecer
-        profesionalmente en nuevos retos.
+        Desarrollador junior con ganas de
+        seguir aprendiendo y creciendo profesionalmente. Me adapto rápido, soy resolutivo y disfruto trabajando en equipo para afrontar nuevos retos en mi carrera profesional.
+        He realizado proyectos personales empleando tecnologías como: ".NET MAUI", "Javascript", "Python", "PHP", etc...
       </p>
 
     </section>
