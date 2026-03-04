@@ -11,7 +11,7 @@ export default function About() {
       <p className="text-gray-300">
         Desarrollador junior con ganas de
         seguir aprendiendo y creciendo profesionalmente. Me adapto rápido, soy resolutivo y disfruto trabajando en equipo para afrontar nuevos retos en mi carrera profesional.
-        He realizado proyectos personales empleando tecnologías como: ".NET MAUI", "Javascript", "Python", "PHP", etc...
+        He realizado proyectos personales empleando tecnologías como: .NET MAUI, Javascript, Python, PHP", etc...
       </p>
 
     </section>
